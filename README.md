@@ -4,10 +4,10 @@
 # languages
 
 
-<img src="./icon/apple.svg" alt="apple" height="280" width="180"><img src="./icon/homebrew.svg" height="280" width="180">
-<img src="./icon/python.svg" alt="python" height="280" width="180"><img src="./icon/intellijidea.svg" height="280" width="180">
-<img src="./icon/c.svg" alt="c" height="280" width="180"><img src="./icon/google.svg" height="280" width="180">
-<img src="./icon/django.svg" alt="django" height="280" width="180"><img src="./icon/react.svg" height="280" width="180">
+<img src="./icon/apple.svg" alt="apple" height="280" width="180"><img src="./icon/git.svg" height="280" width="180">
+<img src="./icon/python.svg" alt="python" height="280" width="180"><img src="./icon/ubuntu.svg" height="280" width="180">
+<img src="./icon/c.svg" alt="c" height="280" width="180"><img src="./icon/visualstudiocode.svg" height="280" width="180">
+<img src="./icon/django.svg" alt="django" height="280" width="180"><img src="./icon/windows.svg" height="280" width="180">
  </h1>
 
 <!--
