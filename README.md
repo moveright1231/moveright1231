@@ -10,6 +10,8 @@
 <img src="./icon/django.svg" alt="django" height="280" width="180"><img src="./icon/windows.svg" height="280" width="180">
  </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveright1231&show_icons=true&theme=radical)
+
 <!--
 **moveright1231/moveright1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
