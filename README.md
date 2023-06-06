@@ -10,7 +10,7 @@
 <img src="./icon/ubuntu.svg" height="120" width="120"><img src="./icon/django.svg" alt="django" height="120" width="120">
 <img src="./icon/windows.svg" height="120" width="120"><img src="./icon/visualstudiocode.svg" height="120" width="120">
  </h1>
-
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveright1231&show_icons=true&theme=radical)
 
 <!--
