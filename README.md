@@ -1,6 +1,6 @@
- Lee Dong Woo
+# Lee Dong Woo
 
- 🦾 Skills
+# 🦾 Skills
  languages
 
 <img src="./icon/python.svg" alt="python" height="120" width="120"><img src="./icon/c.svg" alt="c" height="120" width="120">
