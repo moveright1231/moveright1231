@@ -5,7 +5,7 @@
 
 
 <img src="./icon/apple.svg" alt="apple" height="120" width="120"><img src="./icon/git.svg" height="120" width="120">
-<img src="./icon/python.svg" alt="python" height="120" width="120""><img src="./icon/ubuntu.svg" height="120" width="120">
+<img src="./icon/python.svg" alt="python" height="120" width="120"><img src="./icon/ubuntu.svg" height="120" width="120">
 <img src="./icon/c.svg" alt="c" height="120" width="120"><img src="./icon/visualstudiocode.svg" height="120" width="120">
 <img src="./icon/django.svg" alt="django" height="120" width="120"><img src="./icon/windows.svg" height="120" width="120">
  </h1>
