@@ -3,12 +3,12 @@
 # 🦾 Skills
 # languages
 
-<img src="./icon/python.svg" alt="python" height="120" width="120"><img src="./icon/c.svg" alt="c" height="120" width="120">
+<img src="./icon/python.svg" alt="python" height="120" width="120">  <img src="./icon/c.svg" alt="c" height="120" width="120">
 
 # platform
-<img src="./icon/apple.svg" alt="apple" height="120" width="120"><img src="./icon/git.svg" height="120" width="120">
-<img src="./icon/ubuntu.svg" height="120" width="120"><img src="./icon/django.svg" alt="django" height="120" width="120">
-<img src="./icon/windows.svg" height="120" width="120"><img src="./icon/visualstudiocode.svg" height="120" width="120">
+<img src="./icon/apple.svg" alt="apple" height="120" width="120"> <img src="./icon/git.svg" height="120" width="120"> 
+<img src="./icon/ubuntu.svg" height="120" width="120"> <img src="./icon/django.svg" alt="django" height="120" width="120"> 
+<img src="./icon/windows.svg" height="120" width="120"> <img src="./icon/visualstudiocode.svg" height="120" width="120">
  </h1>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moveright1231&show_icons=true&theme=radical)
