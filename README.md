@@ -2,7 +2,9 @@
 
 <div align="center">
 <div>
+<div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoveright1231&count_bg=%2301DF74&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=moveright1231&show_icons=true&theme=radical" alt="moveright1231's GitHub stats">
 <h2>💻 Follow Me 💻</h2>
 <hr/>
